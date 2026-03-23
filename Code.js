@@ -1,3 +1,4 @@
+// SYNC TEST: 12345
 /** HELPERS: Slugs, Tags, and HTML Cleaning */
 function consolidateTags(name) {
   if (!name) return "General";
